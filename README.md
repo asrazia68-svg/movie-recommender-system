@@ -113,5 +113,3 @@ The model can also predict sentiment for custom input:
 Student Machine Learning Project (IMDB Sentiment Analysis)
 
 ---
-
-## 📌 Example Output
