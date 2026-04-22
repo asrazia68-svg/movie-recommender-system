@@ -1,4 +1,4 @@
-# movie-recommender-system
+# Movie-Recommender-System
 This project performs sentiment analysis on movie reviews from the IMDB dataset using Natural Language Processing (NLP) techniques and a Machine Learning model.
 
 ---
